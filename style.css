@@ -1,0 +1,25 @@
+ body{
+            background-color: rgb(255, 200, 80);
+        }
+a {
+    color: rgb(248, 0, 0);
+}
+
+a:hover {
+    color: rgb(103, 3, 3);
+}
+
+hr {
+    border: 1px solid #ffffff;
+}
+
+img {
+    width: 20%;
+    /*largura da img*/
+    height: 100;
+    /*altura da img*/
+    border-radius: 5px;
+    /*arrendondar bordas*/
+    box-shadow: 3px 3px 5px #292345
+        /*valor 1 e valor 2 são projecão da sombra, valor3 espalhamento da sombra, cor da sombra*/
+}
